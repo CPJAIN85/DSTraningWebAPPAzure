@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DSTraningWebAPPAzure", "DSTraningWebAPPAzure.csproj", "{008DDC42-6F2D-4834-BECF-617FB8EA0695}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{008DDC42-6F2D-4834-BECF-617FB8EA0695}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{008DDC42-6F2D-4834-BECF-617FB8EA0695}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{008DDC42-6F2D-4834-BECF-617FB8EA0695}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{008DDC42-6F2D-4834-BECF-617FB8EA0695}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58087D73-8FC4-468C-AFD1-A065D09CFBC4}
+	EndGlobalSection
+EndGlobal
